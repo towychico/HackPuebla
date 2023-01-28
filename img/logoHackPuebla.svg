@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 263 133" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="logo" transform="matrix(0.313299,0,0,0.177876,-502.379,-43.978)">
+        <g transform="matrix(0.776506,0,0,1.3637,-201.209,-461.016)">
+            <text x="2415.6px" y="732.251px" style="font-family:'ArturitoSlab-Bold', 'Arturito Slab';font-weight:700;font-size:216px;fill:none;stroke:white;stroke-width:9px;">Hack</text>
+            <text x="2415.6px" y="1006.88px" style="font-family:'ArturitoSlab-Bold', 'Arturito Slab';font-weight:700;font-size:274.629px;fill:white;">P<tspan x="2590.26px " y="1006.88px ">u</tspan>ebla</text>
+        </g>
+        <g transform="matrix(0.378945,0.665505,-0.378945,0.665505,1458.08,-2443.16)">
+            <path d="M3048.65,1179.63C3033.68,1212.77 3020.18,1242.67 3012.28,1260.15C3011.05,1262.88 3010.47,1265.79 3010.51,1268.67C3010.59,1273.52 3012.43,1278.27 3015.87,1281.96C3021.36,1287.85 3029.84,1289.86 3037.38,1287.07C3037.42,1287.05 3037.46,1287.04 3037.5,1287.03C3054.18,1280.67 3080.37,1270.93 3098.43,1265.69L3098.43,1322.36C3098.43,1335.07 3108.75,1345.39 3121.46,1345.39L3151.11,1345.39C3160.05,1345.39 3167.81,1340.28 3171.63,1332.82C3173.23,1329.68 3174.14,1326.12 3174.14,1322.36L3174.14,1265.68C3189.73,1270.19 3211.39,1278.05 3227.8,1284.21C3230.47,1285.21 3233,1286.17 3235.34,1287.06C3235.38,1287.08 3235.42,1287.09 3235.46,1287.11C3243.01,1289.89 3251.49,1287.87 3256.97,1281.99C3262.45,1276.1 3263.87,1267.5 3260.56,1260.17L3154.6,1025.62C3151.37,1018.47 3144.25,1013.88 3136.41,1013.88C3128.57,1013.88 3121.45,1018.47 3118.22,1025.62L3118.22,1025.62C3114.36,1034.18 3108.99,1046.07 3102.67,1060.04C3096.03,1074.76 3088.33,1091.79 3080.24,1109.71" style="fill:none;stroke:white;stroke-width:13.04px;stroke-linecap:round;stroke-miterlimit:1.5;"/>
+        </g>
+    </g>
+</svg>
