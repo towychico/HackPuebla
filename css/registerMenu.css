@@ -1,0 +1,109 @@
+@font-face {
+  font-family: 'Consolas Bold';
+  src: local('Consolas Bold'), local('Consolas-Bold'),
+  url('../fonts/Consolas-Bold.woff2') format('woff2'),
+  url('../fonts/Consolas-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Consolas';
+  src: local('Consolas'),
+  url('../fonts/Consolas.woff2') format('woff2'),
+  url('../fonts/Consolas.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Consolas Italic';
+  src: local('Consolas Italic'), local('Consolas-Italic'),
+  url('../fonts/Consolas-Italic.woff2') format('woff2'),
+  url('../fonts/Consolas-Italic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Consolas Bold Italic';
+  src: local('Consolas Bold Italic'), local('Consolas-BoldItalic'),
+  url('../fonts/Consolas-BoldItalic.woff2') format('woff2'),
+  url('../fonts/Consolas-BoldItalic.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+
+@font-face {
+  font-family: 'Arturito Slab';
+  src: local('Arturito Slab Bold'), local('ArturitoSlab-Bold'),
+  url('../fonts/ArturitoSlab-Bold.woff2') format('woff2'),
+  url('../fonts/ArturitoSlab-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+
+*{
+  --dark-blue:#000626;
+  --dark-Gray:#101010;
+}
+
+body{
+  font-size:18px;
+}
+.register_staring_menu_container{
+  width: 100%;
+  height: 92vh;
+  margin-top: 8vh;
+  background-color: #b3d4fc;
+  display: flex;
+  flex-direction: row;
+  justify-content:space-between;
+
+}
+
+.register_option_container{
+  width: 49%;
+  height: 92vh;
+  display: flex;
+  flex-direction: column;
+  justify-content:space-between;
+  align-items: center;
+  padding-top:3em;
+
+}
+.register_option_title{
+  color: #ffffff;
+  font-family: "Arturito Slab",sans-serif;
+  font-size: 2em;
+}
+#individual_menu{
+  background-color: #00ffff;
+
+}
+#teams_menu{
+  background-color: #44ff20;
+}
+#teams_menu:hover{
+  width: 98%;
+
+
+}
+#teams_menu:hover .individual_menu{
+  width: 9%;
+  background-color: #ff0000;
+
+}
+
+#individual_menu:hover{
+  width: 98%;
+
+}
